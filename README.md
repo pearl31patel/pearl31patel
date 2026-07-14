@@ -143,3 +143,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&text=Thanks%20for%20visiting!&fontColor=FFFFFF&fontSize=24&fontAlignY=70&animation=twinkling"
+    alt="Animated footer"
+  />
+</p>
