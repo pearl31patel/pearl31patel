@@ -27,6 +27,14 @@
 - Backend Systems & APIs
 - AI/ML Research
 
+## 🎯 My Mission
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&height=90&lines=Building+reliable+and+responsible+AI+systems;Turning+complex+ideas+into+useful+products;Creating+technology+that+makes+real-world+impact"
+    alt="Animated mission"
+  />
+</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
