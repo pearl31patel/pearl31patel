@@ -20,7 +20,6 @@
 - 🤝 Open to AI and healthcare tech collaborations
 - 💼 Seeking AI Engineer and Software Developer roles
 
-
 ## 🧠 My Focus Areas
 - AI Agents & LLM Applications
 - Full-Stack Development
