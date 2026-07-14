@@ -1,5 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Pearl Patel</h1>
-<h3 align="center">AI Engineer & Full-Stack Software Developer</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=750&lines=AI+Engineer+%26+Full-Stack+Developer;Building+AI+Agents+%26+LLM+Applications;Creating+Healthcare+Technology;Turning+Ideas+into+Real-World+Products"
+    alt="Typing animation"
+  />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=pearl31patel">
